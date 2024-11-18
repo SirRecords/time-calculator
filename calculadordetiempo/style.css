@@ -67,17 +67,13 @@ button:active {
     transform: scale(0.98);
 }
 .btn-calcular {
-    background-color: #2196f3;
-    
+    color: #2196f3;
+    background-color: transparent;    
 }
-.btn-calcular:hover {
-    background-color: #1976d2;
-}
+
 .btn-limpiar {
-    background-color: rgb(255, 81, 81);
-}
-.btn-limpiar:hover {
-    background-color: red;
+    color: rgb(255, 81, 81);
+    background-color: transparent;
 }
 #resultado {
     margin-top: 20px;
